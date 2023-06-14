@@ -1,0 +1,10 @@
+.rectangles{
+    overflow:hidden;
+    white-space:nowrap;
+    margin:10px;
+}
+.homeButton{
+    text-align: center;
+    top:50px;
+    left:50px;
+}
